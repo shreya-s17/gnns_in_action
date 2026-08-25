@@ -8,7 +8,8 @@ Chapter 5 of _"GNNs in Action"_ unveils the fascinating world of Graph AutoEncod
 
 2. Graph Autoencoders
 
-3. new_AMZN_electronics.npz found in this link:   https://drive.google.com/file/d/14hq-nVvoiyZbl1U3UkAK-Uf6l1n4L-iT/view?usp=sharing
+3. `new_AMZN_electronics.npz`, automatically downloaded by
+   `chapter_5_Graph_Autoencoder.ipynb` when it is not already present.
 
 
 ### 🧠 Sections Covered
@@ -38,5 +39,4 @@ A curated selection of additional resources to further enhance your understandin
 We warmly welcome contributions to refine and enhance this learning resource. Feel free to submit issues or pull requests.
 
 ### Happy Learning! 🎓
-
 
